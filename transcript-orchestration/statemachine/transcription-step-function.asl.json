@@ -9,7 +9,7 @@
       "Parameters": {
         "forceTranscribe": false,
         "forceWhisper": false,
-        "createPR": true,
+        "createPR": false,
         "bucketName": "${BucketName}"
       }
     },
